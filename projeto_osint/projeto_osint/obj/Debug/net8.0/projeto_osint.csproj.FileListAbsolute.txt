@@ -1,0 +1,14 @@
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\bin\Debug\net8.0\projeto_osint.exe
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\bin\Debug\net8.0\projeto_osint.deps.json
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\bin\Debug\net8.0\projeto_osint.runtimeconfig.json
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\bin\Debug\net8.0\projeto_osint.dll
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\bin\Debug\net8.0\projeto_osint.pdb
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.AssemblyInfoInputs.cache
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.AssemblyInfo.cs
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.csproj.CoreCompileInputs.cache
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.dll
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\refint\projeto_osint.dll
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.pdb
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\projeto_osint.genruntimeconfig.cache
+D:\Ensino médio 2° ano\desenvolvimento de sistemas\Projetos\projetos_31_03_2026\projeto_osint\projeto_osint\obj\Debug\net8.0\ref\projeto_osint.dll
